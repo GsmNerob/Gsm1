@@ -1,0 +1,18 @@
+package com.upskill.java_2;
+
+public class Poly_practice {
+	
+	Bird b = new Bird();
+	
+	public static void main(String[] args) {
+		 class Bird{
+			 public void sing(){
+				 System.out.println("tweet tweet tweete");
+			 }
+		 }
+		
+		
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.skill.assigmant_1;
+
+public class NestedLoop {
+
+	public static void main(String[] args) {
+		
+
+	}public static void practiceNestedLoop(){
+		
+	   }int i;
+	   int j;                                            
+	   for(i = 1; i <=10; i++){
+		for(j = 1; j <= 10; j++){
+			int multipicationTable = i * j;
+			System.out.print(multipicationTable + "");
+		}
+		System.out.println("");
+	   }
+   }
+ }

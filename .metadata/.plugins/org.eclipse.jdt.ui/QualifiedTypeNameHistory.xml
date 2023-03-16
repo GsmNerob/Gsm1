@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.upskill.java.MethodType"/>
+<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="upskill.amazon.pageElements.AmazonHomepageLocators"/>
+<fullyQualifiedTypeName name="upskill.apple.pageElements.AppleHomepageLocators"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+<fullyQualifiedTypeName name="upskill.utilities.SetupDrivers"/>
+<fullyQualifiedTypeName name="upskill.ebay.pageElements.ShettyHomepageLocators"/>
+<fullyQualifiedTypeName name="groovyjarjarantlr.collections.List"/>
+<fullyQualifiedTypeName name="upskill.utilities.ReadExcelSheet"/>
+<fullyQualifiedTypeName name="upskill.drugs.pageElements.DrugsHomepageLocators"/>
+<fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
+<fullyQualifiedTypeName name="cucumber.api.java.en.When"/>
+<fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
+<fullyQualifiedTypeName name="cucumber.api.PendingException"/>
+<fullyQualifiedTypeName name="upskill.drugs.pageElements.ExpressHomepageLocators"/>
+<fullyQualifiedTypeName name="upskill.drugs.pageAction.ExpressHomepageActions"/>
+</qualifiedTypeNameHistroy>

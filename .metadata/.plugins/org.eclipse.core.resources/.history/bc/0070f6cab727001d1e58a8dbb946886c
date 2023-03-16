@@ -1,0 +1,26 @@
+package com.skill.assigmant_1;
+
+public class While_loop {
+
+	public static void main(String[] args) {
+		
+		practiceWhileLoop();
+		//practiceWhileLoopTwo();
+	}
+	public static void practiceWhileLoop(){
+			int i = 1;
+			while(i <=10){
+				System.out.println("While Loops Number =" + i);
+				i++;
+			}
+				
+			}
+			public static void practiceWhileLoopTwo(){
+				int i = 1;
+				while(i <=12){
+					System.out.println("While Loops Number =" + i);
+					i++;
+				}
+			}
+		}
+
